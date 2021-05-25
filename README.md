@@ -1,2 +1,4 @@
 # hello-world
-Basics Of Git
+# Free Palestine
+I am learning Git.
+Basics Of Git.
